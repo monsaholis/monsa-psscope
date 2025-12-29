@@ -23,6 +23,8 @@ It provides real-time visibility into process state, CPU usage, memory consumpti
 
 See the [Releases](../../releases) page for binary downloads.
 
+> **Note:** The automatically generated "Source code" archives do not contain the actual source code. This project is distributed as **binary-only**. Please download the executable files from the Assets section.
+
 ## Installation
 
 ```bash
