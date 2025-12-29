@@ -1,0 +1,126 @@
+PSSCOPE LICENSE AGREEMENT
+
+Copyright (c) 2025 monsa. All Rights Reserved.
+
+This license agreement governs the use of the psscope binary software ("Software").
+
+================================================================================
+1. PERMITTED USE (FREE)
+================================================================================
+
+You are granted a non-exclusive, non-transferable license to use this Software
+FREE OF CHARGE for:
+
+  - Personal use
+  - Internal business use (non-commercial)
+  - Educational and research purposes
+  - Evaluation and testing
+
+================================================================================
+2. COMMERCIAL USE (LICENSE REQUIRED)
+================================================================================
+
+Commercial use of this Software REQUIRES a separate commercial license.
+
+Commercial use includes, but is not limited to:
+  - Using the Software to provide paid services
+  - Integrating the Software into commercial products
+  - Using the Software in a revenue-generating business context
+  - Distributing the Software as part of a commercial offering
+
+For commercial licensing inquiries, contact: [contact information]
+
+================================================================================
+3. RESTRICTIONS
+================================================================================
+
+You may NOT:
+  - Reverse engineer, decompile, or disassemble the Software
+  - Modify, adapt, or create derivative works
+  - Redistribute, sublicense, rent, lease, or sell the Software
+  - Remove or alter any proprietary notices or labels
+  - Use the Software for unlawful purposes
+  - Claim ownership of the Software
+
+================================================================================
+4. BINARY DISTRIBUTION
+================================================================================
+
+This Software is distributed in binary form only.
+No source code is provided or implied.
+
+================================================================================
+5. NO WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+THE AUTHOR MAKES NO REPRESENTATIONS OR WARRANTIES REGARDING:
+  - The accuracy, reliability, or completeness of the Software
+  - The suitability of the Software for any particular purpose
+  - That the Software will be error-free or uninterrupted
+  - That defects in the Software will be corrected
+
+================================================================================
+6. LIMITATION OF LIABILITY
+================================================================================
+
+IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; BUSINESS INTERRUPTION; SYSTEM
+FAILURE; DATA LOSS; SECURITY BREACHES; OR ANY OTHER PECUNIARY LOSS) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+================================================================================
+7. ASSUMPTION OF RISK
+================================================================================
+
+YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+
+  a) Your use of this Software is at your sole risk.
+
+  b) This Software interacts with system processes and kernel-level data.
+     Improper use may affect system stability or performance.
+
+  c) The Author is not responsible for any damage to your computer system,
+     loss of data, or any other harm that results from your use of this
+     Software.
+
+  d) You are solely responsible for ensuring that your use of this Software
+     complies with all applicable laws and regulations.
+
+  e) The Author does not guarantee compatibility with any specific system
+     configuration, operating system version, or hardware.
+
+================================================================================
+8. INDEMNIFICATION
+================================================================================
+
+You agree to indemnify, defend, and hold harmless the Author from and against
+any and all claims, damages, losses, costs, and expenses (including reasonable
+attorney fees) arising from your use of the Software or your violation of this
+license agreement.
+
+================================================================================
+9. TERMINATION
+================================================================================
+
+This license terminates automatically if you violate any of its terms.
+Upon termination, you must destroy all copies of the Software.
+
+================================================================================
+10. THIRD-PARTY COMPONENTS
+================================================================================
+
+This Software includes third-party open source components.
+See THIRD_PARTY_LICENSES.txt for applicable licenses.
+
+================================================================================
+
+By downloading, installing, or using this Software, you acknowledge that you
+have read this license, understand it, and agree to be bound by its terms.
